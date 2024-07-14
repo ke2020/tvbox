@@ -1,0 +1,25 @@
+{
+  "vodPic": "./logo.png",
+  "drives": [
+    {
+      "name": "本地",
+      "server": "http://localhost:5244/"
+    },
+    {
+      "name": "moto",
+      "server": "http://192.168.124.7:5244/"
+    },
+    {
+      "name": "moto2",
+      "server": "http://192.168.1.128:5244/"
+    },
+    {
+      "name": "601",
+      "server": "http://192.168.1.30:5244/"
+    },
+    {
+      "name": "puppet studio",
+      "server": "https://1ov3.top/"
+    }
+    ]
+}
