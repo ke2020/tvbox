@@ -1,5 +1,5 @@
 {
-  "vodPic": "./logo.png",
+  "vodPic": "https://cdn.jsdmirror.com/gh/ke2020/tvbox/logo.png",
   "drives": [
     {
       "name": "本地",
